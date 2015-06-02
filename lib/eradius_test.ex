@@ -1,0 +1,2 @@
+defmodule EradiusTest do
+end
